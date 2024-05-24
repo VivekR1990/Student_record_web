@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCLFmdZz7aCBuug1S0ln7RHLw0zPMnC5lk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>761296163889</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.studentRecordWeb.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>student-record-e108a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>student-logbook-58249.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:761296163889:ios:c50ccee8477b3dffadf110</string>
+</dict>
+</plist>
