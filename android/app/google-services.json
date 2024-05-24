@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:761296163889:android:83d606c04acf04e6adf110",
+        "mobilesdk_app_id": "1:761296163889:android:",
         "android_client_info": {
           "package_name": "com.example.student_record_web"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDPPggCafGWtrd6JY0k1d0DI7HcT6UDOM0"
+          "current_key": ""
         }
       ],
       "services": {
